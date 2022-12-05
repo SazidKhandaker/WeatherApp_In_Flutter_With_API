@@ -1,16 +1,7 @@
 # weatherapp
 
-A new Flutter project.
+A new Flutter project of weather update according to the location.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+----------
+![WeatherApp](https://user-images.githubusercontent.com/65438013/205673132-cf8a49a2-7922-4ee6-ad0b-dc0b5b905caf.gif)
